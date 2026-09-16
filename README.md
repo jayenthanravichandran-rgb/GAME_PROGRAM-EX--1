@@ -2,8 +2,8 @@
 
 # EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
 
-## NAME : JAIAKASH J
-## REG NO : 21222520055
+## NAME : JAYENTHAN R
+## REG NO : 212225240057
 ## Aim
 To implement and demonstrate various material effects in Unreal Engine, including emissive, roughness, and metallic properties, using the Material Editor.
 
